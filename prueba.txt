@@ -1,7 +1,4 @@
 esta es una prueba
-<<<<<<< HEAD
-Agrego linea de prueba--Wilmer
-=======
 agrego la segunda línea
->>>>>>> 6848abce48a0f6c12dadc8b2009e7efde18ba8a2
+
 Linea agregada por Wilmer Perdomo
