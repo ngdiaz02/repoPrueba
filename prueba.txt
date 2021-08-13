@@ -1,3 +1,8 @@
 esta es una prueba
 agrego la segunda línea
+<<<<<<< HEAD
 geraldine agrego una linea de codigo
+=======
+
+Linea agregada por Wilmer Perdomo
+>>>>>>> c13df249490e7c82faf3ec41ffe754dc6267b87c
