@@ -2,6 +2,7 @@ esta es una prueba
 agrego la segunda línea
 <<<<<<< HEAD
 geraldine agrego una linea de codigo
+
 =======
 
 Linea agregada por Wilmer Perdomo
